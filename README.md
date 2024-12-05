@@ -22,7 +22,7 @@ Table
 The table will show the sum of confirmed cases, the sum of deaths, and their total values based on the country/region.
 This will help to understand the impact of the pandemic.
 
-Add : Column chart 
-     Donut chart 
-     Bar chart
-     Gauge
+Add : Column chart, 
+     Donut chart, 
+     Bar chart,
+     Gauge,
